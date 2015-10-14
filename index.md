@@ -7,7 +7,7 @@ subtitle: foo bar
 # Devices notes gathered from the libratbag project
 
 This site keeps tracks of the various features of the devices we are supporting
-in libratbag.
+in [libratbag](https://github.com/libratbag/libratbag).
 
 It does not contain protocol information for legal reasons.
 Please keep it to only general observations and public data (like the number of
