@@ -1,6 +1,7 @@
 ---
 layout: architect
-title: Devices-notes by libratbag
+title: Notes by libratbag
+subtitle: foo bar
 ---
 
 # Devices notes gathered from the libratbag project

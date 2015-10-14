@@ -456,7 +456,7 @@ header {
 }
 
 header h1 {
-  width: 540px;
+  width: 80%;
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
@@ -779,10 +779,10 @@ footer a:hover {
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   .inner {
-    width: 740px;
+    width: 90%;
   }
   header h1, header h2 {
-    width: 340px;
+    width: 90%;
   }
   header h1 {
     font-size: 60px;
