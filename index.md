@@ -25,8 +25,8 @@ supported profiles, the DPI capabilities, the number of buttons, etc...).
 - G9x _Original_
 - G9x _Call of Duty MW3 Edition_
 - G303
-- G500
-- G500s
+- [G500](G500.html)
+- [G500s](G500s.html)
 - G502
 - [G600](G600.html)
 - G700
