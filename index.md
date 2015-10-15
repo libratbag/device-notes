@@ -30,7 +30,7 @@ supported profiles, the DPI capabilities, the number of buttons, etc...).
 - G502
 - [G600](G600.html)
 - G700
-- G700s
+- [G700s](G700s.html)
 - M325
 - M705
 - MX Master
