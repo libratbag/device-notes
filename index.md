@@ -20,7 +20,7 @@ supported profiles, the DPI capabilities, the number of buttons, etc...).
 ## Logitech devices
 - M570
 - G5
-- G5 2007
+- [G5 2007](G5.html)
 - G9
 - G9x _Original_
 - G9x _Call of Duty MW3 Edition_
