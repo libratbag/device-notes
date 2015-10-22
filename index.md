@@ -18,20 +18,38 @@ supported profiles, the DPI capabilities, the number of buttons, etc...).
 - Scroll Alpha
 
 ## Logitech devices
-- M570
+
+#### Gaming
+These mice are listed as supported by LGS. This suggests onboard profiles and programmable buttons.
+
+| Year | Model               | Driver | ID   |
+| ---- | ------------------- | ------ | ---- |
+| 2007 | G9                  | 1.0    | c048 |
+| 2008 | G9x                 | 1.0    | c066 |
+| 2009 | [G500](G500.html)   | 1.0    | c068 |
+| 2010 | G700                |        |      |
+| 2011 | G300                |        |      |
+| 2011 | G400                |        |      |
+| 2012 | G9X: CoD            | 1.0    | c249 |
+| 2012 | [G600](G600.html)   |        |      |
+| 2013 | G100s               |        |      |
+| 2013 | G400s               |        |      |
+| 2013 | [G500s](G500s.html) | 1.0    | c24e |
+| 2013 | G602                |        |      |
+| 2013 | [G700s](G700s.html) |        |      |
+| 2014 | G302                |        |      |
+| 2014 | G402                |        |      |
+| 2014 | G502                | 2.0    | c07d |
+| 2015 | G300s               |        |      |
+| 2015 | G303                | 2.0    | c080 |
+
+#### Other
+Other devices that support hid++ protocols. Supported by set point.
+
 - G5
 - [G5 2007](G5-2007.html)
-- G9
-- G9x _Original_
-- G9x _Call of Duty MW3 Edition_
-- G303
-- [G500](G500.html)
-- [G500s](G500s.html)
-- G502
-- [G600](G600.html)
-- G700
-- [G700s](G700s.html)
 - M325
+- M570
 - M705
 - MX Master
 - T650
