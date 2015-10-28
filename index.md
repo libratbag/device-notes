@@ -28,10 +28,10 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2008 | G9x                 | 1.0    | c066 |
 | 2009 | [G500](G500.html)   | 1.0    | c068 |
 | 2010 | G700                |        |      |
-| 2011 | G300                |        |      |
+| 2011 | G300                | ?      | c246 |
 | 2011 | G400                |        |      |
 | 2012 | G9X: CoD            | 1.0    | c249 |
-| 2012 | [G600](G600.html)   |        |      |
+| 2012 | [G600](G600.html)   | ?      |      |
 | 2013 | [G100s](G100s.html) |        |      |
 | 2013 | G400s               |        |      |
 | 2013 | [G500s](G500s.html) | 1.0    | c24e |
