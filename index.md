@@ -40,7 +40,7 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2014 | G302                |        |      |
 | 2014 | G402                |        |      |
 | 2014 | G502                | 2.0    | c07d |
-| 2015 | G300s               |        |      |
+| 2015 | G300s               | ?      | c246 |
 | 2015 | G303                | 2.0    | c080 |
 
 #### Other
