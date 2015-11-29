@@ -36,7 +36,7 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2013 | G400s               | ?      | c24c |
 | 2013 | [G500s](G500s.html) | 1.0    | c24e |
 | 2013 | G602                |        |      |
-| 2013 | [G700s](G700s.html) |        |      |
+| 2013 | [G700s](G700s.html) | 1.0    |      |
 | 2014 | G302                |        |      |
 | 2014 | G402                |        |      |
 | 2014 | G502                | 2.0    | c07d |
