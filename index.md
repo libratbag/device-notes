@@ -35,13 +35,15 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2013 | [G100s](G100s.html) |        |      |
 | 2013 | G400s               | ?      | c24c |
 | 2013 | [G500s](G500s.html) | 1.0    | c24e |
-| 2013 | G602                |        |      |
+| 2013 | G602                | 2.0    | c537 |
 | 2013 | [G700s](G700s.html) | 1.0    |      |
-| 2014 | G302                |        |      |
+| 2014 | G302                | 2.0    | c07f |
 | 2014 | G402                |        |      |
 | 2014 | G502                | 2.0    | c07d |
 | 2015 | G300s               | ?      | c246 |
 | 2015 | G303                | 2.0    | c080 |
+| 2016 | G502 P. Spectrum    | 2.0    | c332 |
+| 2016 | G900                | 2.0    | c539 |
 
 #### Other
 Other devices that support hid++ protocols. Supported by set point.
