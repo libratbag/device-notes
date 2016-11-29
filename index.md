@@ -67,11 +67,20 @@ can not support those devices in libratbag.
 
 ## Device owners
 
-| Model                                 | Owner |
-| ------------------------------------- | ----- |
-| Logitech G303                         | @whot |
-| Logitech [G500s]                      | @whot |
-| Logitech T650                         | @whot |
-| Logitech Wireless Touchpad            | @whot |
-| Roccat Kone XTD                       | @whot |
-| Razer DeathAdder Chroma               | @whot |
+| Model                                 | Owner    |
+| ------------------------------------- | -------- |
+| Etekcity Scroll 6E                    | @bentiss |
+| Etekcity Scroll Alpha                 | @dvdhrm  |
+| Logitech G303                         | @whot    |
+| Logitech [G500s]                      | @whot    |
+| Logitech G502                         | @bentiss |
+| Logitech G600                         | @bentiss |
+| Logitech G700                         | @bentiss |
+| Logitech G900                         | @bentiss |
+| Logitech MX Master                    | @bentiss |
+| Logitech T650                         | @whot / @bentiss |
+| Logitech T651                         | @bentiss |
+| Logitech Wireless Touchpad            | @whot / @bentiss |
+| Razer DeathAdder Chroma               | @whot    |
+| Razer Imperator 2012                  | @bentiss |
+| Roccat Kone XTD                       | @whot    |
