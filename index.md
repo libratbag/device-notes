@@ -63,3 +63,15 @@ can not support those devices in libratbag.
 
 ## Roccat devices
 - Kone XTD
+
+
+## Device owners
+
+| Model                                 | Owner |
+| ------------------------------------- | ----- |
+| Logitech G303                         | @whot |
+| Logitech [G500s]                      | @whot |
+| Logitech T650                         | @whot |
+| Logitech Wireless Touchpad            | @whot |
+| Roccat Kone XTD                       | @whot |
+| Razer DeathAdder Chroma               | @whot |
