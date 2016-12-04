@@ -71,8 +71,12 @@ can not support those devices in libratbag.
 | ------------------------------------- | -------- |
 | Etekcity Scroll 6E                    | @bentiss |
 | Etekcity Scroll Alpha                 | @dvdhrm  |
+| Logitech G9                           | @phomes  |
+| Logitech G100s                        | @phomes  |
+| Logitech G300                         | @phomes  |
 | Logitech G303                         | @whot    |
 | Logitech [G500s]                      | @whot    |
+| Logitech G400s                        | @phomes  |
 | Logitech G502                         | @bentiss |
 | Logitech G600                         | @bentiss |
 | Logitech G700                         | @bentiss |
