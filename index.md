@@ -28,7 +28,7 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2008 | G9x                 | 1.0    | c066 |
 | 2009 | [G500](G500.html)   | 1.0    | c068 |
 | 2010 | [G700](G700.html)   | 1.0    | c06b + c531 |
-| 2011 | G300                | ?      | c246 |
+| 2011 | G300                | G300   | c246 |
 | 2011 | G400                |        |      |
 | 2012 | G9X: CoD            | 1.0    | c249 |
 | 2012 | [G600](G600.html)   | ?      |      |
@@ -40,10 +40,17 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2014 | G302                | 2.0    | c07f |
 | 2014 | G402                |        |      |
 | 2014 | G502                | 2.0    | c07d |
-| 2015 | G300s               | ?      | c246 |
+| 2015 | G300s               | G300   | c246 |
 | 2015 | G303                | 2.0    | c080 |
 | 2016 | G502 P. Spectrum    | 2.0    | c332 |
 | 2016 | G900                | 2.0    | c539 |
+| 2016 | Pro Gaming Mouse    |        |      |
+| 2016 | G403                | 2.0    | c082 |
+| 2016 | G403 Wireless       |        |      |
+| 2017 | G203                |        |      |
+| 2017 | G603                |        |      |
+| 2017 | G703                |        |      |
+| 2017 | G903                |        |      |
 
 #### Other
 Other devices that support hid++ protocols. Supported by set point.
