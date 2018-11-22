@@ -49,8 +49,8 @@ These mice are listed as supported by LGS. This suggests onboard profiles and pr
 | 2016 | G403 Wireless       |        |      |
 | 2017 | G203                |        |      |
 | 2017 | G603                |        |      |
-| 2017 | G703                |        |      |
-| 2017 | G903                |        |      |
+| 2017 | G703                |        | c087 |
+| 2017 | G903                |        | c086 |
 
 #### Other
 Other devices that support hid++ protocols. Supported by set point.
